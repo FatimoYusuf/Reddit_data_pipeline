@@ -1,0 +1,5 @@
+praw
+sqlalchemy
+python-dotenv
+pymysql
+alembic

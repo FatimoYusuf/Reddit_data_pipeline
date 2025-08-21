@@ -17,5 +17,5 @@ alembic/versions/
 .DS_Store
 Thumbs.db
 
-.env
+# Environment variables
 alembic.ini
